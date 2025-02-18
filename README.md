@@ -33,7 +33,7 @@ Mixed Messages is a simple message generator program built using JavaScript. Eac
 1. Open a terminal in the project directory.
 2. Run the program using Node.js:
     ```bash
-    node script.js
+    node mixed-messages.js
     ```
 3. Each time the script is run, a unique random message will be displayed in the terminal.
 
